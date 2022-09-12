@@ -1,0 +1,42 @@
+
+
+
+
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:#145DA0;
+    font-size: 30px;
+    
+  }
+
+body {
+    background-color: #FFF;
+    margin: 0 auto;
+
+  }
+
+h1{
+    color: #B59C7D ;
+}
+
+h4{
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+ }
+
+ 
+ a:hover {
+    text-decoration: none;
+    color: orange;
+ }
+
+
+.logo{
+    
+}
